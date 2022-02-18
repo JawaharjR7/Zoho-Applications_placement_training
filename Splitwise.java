@@ -16,8 +16,8 @@ public class split_wise {
     public static void main(String[] args)
     {
         l1.add("jawa");
-        l1.add("crush");
-        l1.add("muruga");
+        l1.add("raja");
+        l1.add("jr");
         l2.add("10");
         l4.add("1");
         l4.add("2");
